@@ -1,0 +1,2626 @@
+JobId=24731 ArrayJobId=24731 ArrayTaskId=100 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:28
+   StartTime=2017-09-27T19:41:28 EndTime=2017-09-27T19:41:28
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-100.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-100.out
+   Power= SICP=0
+
+JobId=24831 ArrayJobId=24731 ArrayTaskId=99 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:28
+   StartTime=2017-09-27T19:41:28 EndTime=2017-09-27T19:41:28
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-99.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-99.out
+   Power= SICP=0
+
+JobId=24830 ArrayJobId=24731 ArrayTaskId=98 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-98.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-98.out
+   Power= SICP=0
+
+JobId=24829 ArrayJobId=24731 ArrayTaskId=97 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:28
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-97.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-97.out
+   Power= SICP=0
+
+JobId=24828 ArrayJobId=24731 ArrayTaskId=96 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-96.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-96.out
+   Power= SICP=0
+
+JobId=24827 ArrayJobId=24731 ArrayTaskId=95 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-95.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-95.out
+   Power= SICP=0
+
+JobId=24826 ArrayJobId=24731 ArrayTaskId=94 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:28
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-94.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-94.out
+   Power= SICP=0
+
+JobId=24825 ArrayJobId=24731 ArrayTaskId=93 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-93.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-93.out
+   Power= SICP=0
+
+JobId=24824 ArrayJobId=24731 ArrayTaskId=92 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-92.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-92.out
+   Power= SICP=0
+
+JobId=24823 ArrayJobId=24731 ArrayTaskId=91 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-91.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-91.out
+   Power= SICP=0
+
+JobId=24822 ArrayJobId=24731 ArrayTaskId=90 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-90.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-90.out
+   Power= SICP=0
+
+JobId=24821 ArrayJobId=24731 ArrayTaskId=89 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-89.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-89.out
+   Power= SICP=0
+
+JobId=24820 ArrayJobId=24731 ArrayTaskId=88 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-88.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-88.out
+   Power= SICP=0
+
+JobId=24819 ArrayJobId=24731 ArrayTaskId=87 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-87.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-87.out
+   Power= SICP=0
+
+JobId=24818 ArrayJobId=24731 ArrayTaskId=86 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-86.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-86.out
+   Power= SICP=0
+
+JobId=24817 ArrayJobId=24731 ArrayTaskId=85 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-85.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-85.out
+   Power= SICP=0
+
+JobId=24816 ArrayJobId=24731 ArrayTaskId=84 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-84.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-84.out
+   Power= SICP=0
+
+JobId=24815 ArrayJobId=24731 ArrayTaskId=83 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:27
+   StartTime=2017-09-27T19:41:27 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-83.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-83.out
+   Power= SICP=0
+
+JobId=24814 ArrayJobId=24731 ArrayTaskId=82 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-82.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-82.out
+   Power= SICP=0
+
+JobId=24813 ArrayJobId=24731 ArrayTaskId=81 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-81.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-81.out
+   Power= SICP=0
+
+JobId=24812 ArrayJobId=24731 ArrayTaskId=80 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:27
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-80.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-80.out
+   Power= SICP=0
+
+JobId=24811 ArrayJobId=24731 ArrayTaskId=79 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-79.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-79.out
+   Power= SICP=0
+
+JobId=24810 ArrayJobId=24731 ArrayTaskId=78 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-78.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-78.out
+   Power= SICP=0
+
+JobId=24809 ArrayJobId=24731 ArrayTaskId=77 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-77.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-77.out
+   Power= SICP=0
+
+JobId=24808 ArrayJobId=24731 ArrayTaskId=76 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-76.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-76.out
+   Power= SICP=0
+
+JobId=24807 ArrayJobId=24731 ArrayTaskId=75 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-75.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-75.out
+   Power= SICP=0
+
+JobId=24806 ArrayJobId=24731 ArrayTaskId=74 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-74.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-74.out
+   Power= SICP=0
+
+JobId=24805 ArrayJobId=24731 ArrayTaskId=73 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:26
+   StartTime=2017-09-27T19:41:26 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-73.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-73.out
+   Power= SICP=0
+
+JobId=24804 ArrayJobId=24731 ArrayTaskId=72 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-72.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-72.out
+   Power= SICP=0
+
+JobId=24803 ArrayJobId=24731 ArrayTaskId=71 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-71.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-71.out
+   Power= SICP=0
+
+JobId=24802 ArrayJobId=24731 ArrayTaskId=70 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-70.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-70.out
+   Power= SICP=0
+
+JobId=24801 ArrayJobId=24731 ArrayTaskId=69 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-69.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-69.out
+   Power= SICP=0
+
+JobId=24800 ArrayJobId=24731 ArrayTaskId=68 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:26
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-68.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-68.out
+   Power= SICP=0
+
+JobId=24799 ArrayJobId=24731 ArrayTaskId=67 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-67.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-67.out
+   Power= SICP=0
+
+JobId=24798 ArrayJobId=24731 ArrayTaskId=66 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-66.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-66.out
+   Power= SICP=0
+
+JobId=24797 ArrayJobId=24731 ArrayTaskId=65 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-65.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-65.out
+   Power= SICP=0
+
+JobId=24796 ArrayJobId=24731 ArrayTaskId=64 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-64.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-64.out
+   Power= SICP=0
+
+JobId=24795 ArrayJobId=24731 ArrayTaskId=63 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-63.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-63.out
+   Power= SICP=0
+
+JobId=24794 ArrayJobId=24731 ArrayTaskId=62 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:25
+   StartTime=2017-09-27T19:41:25 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-62.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-62.out
+   Power= SICP=0
+
+JobId=24793 ArrayJobId=24731 ArrayTaskId=61 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-61.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-61.out
+   Power= SICP=0
+
+JobId=24792 ArrayJobId=24731 ArrayTaskId=60 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-60.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-60.out
+   Power= SICP=0
+
+JobId=24791 ArrayJobId=24731 ArrayTaskId=59 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-59.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-59.out
+   Power= SICP=0
+
+JobId=24790 ArrayJobId=24731 ArrayTaskId=58 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-58.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-58.out
+   Power= SICP=0
+
+JobId=24789 ArrayJobId=24731 ArrayTaskId=57 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:25
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-57.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-57.out
+   Power= SICP=0
+
+JobId=24788 ArrayJobId=24731 ArrayTaskId=56 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-56.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-56.out
+   Power= SICP=0
+
+JobId=24787 ArrayJobId=24731 ArrayTaskId=55 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-55.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-55.out
+   Power= SICP=0
+
+JobId=24786 ArrayJobId=24731 ArrayTaskId=54 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-54.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-54.out
+   Power= SICP=0
+
+JobId=24785 ArrayJobId=24731 ArrayTaskId=53 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-53.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-53.out
+   Power= SICP=0
+
+JobId=24784 ArrayJobId=24731 ArrayTaskId=52 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-52.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-52.out
+   Power= SICP=0
+
+JobId=24783 ArrayJobId=24731 ArrayTaskId=51 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-51.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-51.out
+   Power= SICP=0
+
+JobId=24782 ArrayJobId=24731 ArrayTaskId=50 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-50.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-50.out
+   Power= SICP=0
+
+JobId=24781 ArrayJobId=24731 ArrayTaskId=49 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-49.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-49.out
+   Power= SICP=0
+
+JobId=24780 ArrayJobId=24731 ArrayTaskId=48 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-48.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-48.out
+   Power= SICP=0
+
+JobId=24779 ArrayJobId=24731 ArrayTaskId=47 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:24
+   StartTime=2017-09-27T19:41:24 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-47.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-47.out
+   Power= SICP=0
+
+JobId=24778 ArrayJobId=24731 ArrayTaskId=46 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-46.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-46.out
+   Power= SICP=0
+
+JobId=24777 ArrayJobId=24731 ArrayTaskId=45 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-45.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-45.out
+   Power= SICP=0
+
+JobId=24776 ArrayJobId=24731 ArrayTaskId=44 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-44.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-44.out
+   Power= SICP=0
+
+JobId=24775 ArrayJobId=24731 ArrayTaskId=43 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-43.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-43.out
+   Power= SICP=0
+
+JobId=24774 ArrayJobId=24731 ArrayTaskId=42 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:24
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-42.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-42.out
+   Power= SICP=0
+
+JobId=24773 ArrayJobId=24731 ArrayTaskId=41 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-41.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-41.out
+   Power= SICP=0
+
+JobId=24772 ArrayJobId=24731 ArrayTaskId=40 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-40.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-40.out
+   Power= SICP=0
+
+JobId=24771 ArrayJobId=24731 ArrayTaskId=39 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-39.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-39.out
+   Power= SICP=0
+
+JobId=24770 ArrayJobId=24731 ArrayTaskId=38 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-38.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-38.out
+   Power= SICP=0
+
+JobId=24769 ArrayJobId=24731 ArrayTaskId=37 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-37.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-37.out
+   Power= SICP=0
+
+JobId=24768 ArrayJobId=24731 ArrayTaskId=36 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-36.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-36.out
+   Power= SICP=0
+
+JobId=24767 ArrayJobId=24731 ArrayTaskId=35 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-35.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-35.out
+   Power= SICP=0
+
+JobId=24766 ArrayJobId=24731 ArrayTaskId=34 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-34.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-34.out
+   Power= SICP=0
+
+JobId=24765 ArrayJobId=24731 ArrayTaskId=33 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-33.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-33.out
+   Power= SICP=0
+
+JobId=24764 ArrayJobId=24731 ArrayTaskId=32 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-32.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-32.out
+   Power= SICP=0
+
+JobId=24763 ArrayJobId=24731 ArrayTaskId=31 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-31.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-31.out
+   Power= SICP=0
+
+JobId=24762 ArrayJobId=24731 ArrayTaskId=30 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:23
+   StartTime=2017-09-27T19:41:23 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-30.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-30.out
+   Power= SICP=0
+
+JobId=24761 ArrayJobId=24731 ArrayTaskId=29 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-29.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-29.out
+   Power= SICP=0
+
+JobId=24760 ArrayJobId=24731 ArrayTaskId=28 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-28.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-28.out
+   Power= SICP=0
+
+JobId=24759 ArrayJobId=24731 ArrayTaskId=27 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-27.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-27.out
+   Power= SICP=0
+
+JobId=24758 ArrayJobId=24731 ArrayTaskId=26 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-26.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-26.out
+   Power= SICP=0
+
+JobId=24757 ArrayJobId=24731 ArrayTaskId=25 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:23
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-25.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-25.out
+   Power= SICP=0
+
+JobId=24756 ArrayJobId=24731 ArrayTaskId=24 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-24.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-24.out
+   Power= SICP=0
+
+JobId=24755 ArrayJobId=24731 ArrayTaskId=23 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-23.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-23.out
+   Power= SICP=0
+
+JobId=24754 ArrayJobId=24731 ArrayTaskId=22 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-22.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-22.out
+   Power= SICP=0
+
+JobId=24753 ArrayJobId=24731 ArrayTaskId=21 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-21.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-21.out
+   Power= SICP=0
+
+JobId=24752 ArrayJobId=24731 ArrayTaskId=20 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-20.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-20.out
+   Power= SICP=0
+
+JobId=24751 ArrayJobId=24731 ArrayTaskId=19 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-19.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-19.out
+   Power= SICP=0
+
+JobId=24750 ArrayJobId=24731 ArrayTaskId=18 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-18.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-18.out
+   Power= SICP=0
+
+JobId=24749 ArrayJobId=24731 ArrayTaskId=17 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-17.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-17.out
+   Power= SICP=0
+
+JobId=24748 ArrayJobId=24731 ArrayTaskId=16 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-16.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-16.out
+   Power= SICP=0
+
+JobId=24747 ArrayJobId=24731 ArrayTaskId=15 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:22
+   StartTime=2017-09-27T19:41:22 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-15.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-15.out
+   Power= SICP=0
+
+JobId=24746 ArrayJobId=24731 ArrayTaskId=14 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=titan
+   BatchHost=titan
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-14.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-14.out
+   Power= SICP=0
+
+JobId=24745 ArrayJobId=24731 ArrayTaskId=13 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-13.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-13.out
+   Power= SICP=0
+
+JobId=24744 ArrayJobId=24731 ArrayTaskId=12 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-12.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-12.out
+   Power= SICP=0
+
+JobId=24743 ArrayJobId=24731 ArrayTaskId=11 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-11.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-11.out
+   Power= SICP=0
+
+JobId=24742 ArrayJobId=24731 ArrayTaskId=10 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:22
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-10.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-10.out
+   Power= SICP=0
+
+JobId=24741 ArrayJobId=24731 ArrayTaskId=9 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-9.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-9.out
+   Power= SICP=0
+
+JobId=24740 ArrayJobId=24731 ArrayTaskId=8 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-8.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-8.out
+   Power= SICP=0
+
+JobId=24739 ArrayJobId=24731 ArrayTaskId=7 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-7.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-7.out
+   Power= SICP=0
+
+JobId=24738 ArrayJobId=24731 ArrayTaskId=6 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-6.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-6.out
+   Power= SICP=0
+
+JobId=24737 ArrayJobId=24731 ArrayTaskId=5 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:21
+   StartTime=2017-09-27T19:41:21 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-5.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-5.out
+   Power= SICP=0
+
+JobId=24736 ArrayJobId=24731 ArrayTaskId=4 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:00 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:20
+   StartTime=2017-09-27T19:41:20 EndTime=2017-09-27T19:41:20
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=caleuche
+   BatchHost=caleuche
+   NumNodes=1 NumCPUs=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-4.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-4.out
+   Power= SICP=0
+
+JobId=24735 ArrayJobId=24731 ArrayTaskId=3 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:20
+   StartTime=2017-09-27T19:41:20 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-3.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-3.out
+   Power= SICP=0
+
+JobId=24734 ArrayJobId=24731 ArrayTaskId=2 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:20
+   StartTime=2017-09-27T19:41:20 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-2.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-2.out
+   Power= SICP=0
+
+JobId=24733 ArrayJobId=24731 ArrayTaskId=1 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:20
+   StartTime=2017-09-27T19:41:20 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-1.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-1.out
+   Power= SICP=0
+
+JobId=24732 ArrayJobId=24731 ArrayTaskId=0 JobName=primes_job_rjhs
+   UserId=rjherrera(1164) GroupId=iic2523(1001)
+   Priority=4294901577 Nice=0 Account=(null) QOS=(null)
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=1 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:01 TimeLimit=02:00:00 TimeMin=N/A
+   SubmitTime=2017-09-27T19:41:20 EligibleTime=2017-09-27T19:41:20
+   StartTime=2017-09-27T19:41:20 EndTime=2017-09-27T19:41:21
+   PreemptTime=None SuspendTime=None SecsPreSuspend=0
+   Partition=grimapartition AllocNode:Sid=hercules:4753
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=tripio
+   BatchHost=tripio
+   NumNodes=1 NumCPUs=2 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=2,node=1
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=0 MinTmpDiskNode=0
+   Features=(null) Gres=(null) Reservation=(null)
+   Shared=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/home/rjherrera/slurm/interval_seq.sh
+   WorkDir=/user/rjherrera/slurm/results_seq
+   StdErr=/user/rjherrera/slurm/results_seq/slurm-0.err
+   StdIn=/dev/null
+   StdOut=/user/rjherrera/slurm/results_seq/slurm-0.out
+   Power= SICP=0
+

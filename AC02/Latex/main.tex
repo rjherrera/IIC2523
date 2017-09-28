@@ -1,0 +1,85 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\parindent}{0pt}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{logo}
+\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage{enumerate}
+\usepackage{amssymb,amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+
+
+\begin{document}
+
+\begin{tabular}{ccl}
+\begin{tabular}{c}
+\psfig{file=puclogo.eps}
+\end{tabular}
+\begin{tabular}{l}
+\tiny{\ }\\ \normalsize
+PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE\\
+ESCUELA DE INGENIERÍA\\
+DEPARTAMENTO DE CIENCIA DE LA COMPUTACIÓN
+\end{tabular}
+\end{tabular}
+\begin{center}
+\vspace{2ex}\small\bf IIC2523 Sistemas Distribuidos (II/2017)\\
+\vspace{1ex}\Large Actividad 2\\
+\vspace{1ex}\small Raimundo Herrera (rjherrera@uc.cl)
+\end{center}
+
+\section{Local v/s Slurm}
+
+Al usar de manera local uno de los nodos disponibles, el rendimiento es mucho mejor que al usar $slurm$, esto puede deberse a que la tarea es muy sencilla, se discutirá más en profundidad más adelante.\\
+
+Para probar lo anterior, hice un \textit{script} secuencial de python, el cual es idéntico al que se ejecuta con $sbatch$, pero en vez de recibir como parámetro el \texttt{TASK\_ID} y usarlo para definir el intervalo, simplemente utilicé el intervalo completo, en mi caso de 0 a 100100.
+
+Al utilizar el comando
+
+\begin{center}
+\texttt{time python3 primes\_seq.py}
+\end{center}
+
+Es decir, cronometrar la ejecución secuencial del programa, en \texttt{titan}, se obtiene un tiempo de ejecución de 0.359 segundos promedio de 5 ejecuciones.\\
+
+Por otro lado, al realizar \texttt{sbatch} con intervalos de largo 100 y 1000 ejecuciones, se obtiene el resultado tras 60 segundos. Esto se obtuvo utilizando el comando
+\begin{center}
+\texttt{scontrol show job <job\_id>}
+\end{center}
+y revisando los tiempos de inicio y término de cada $job$, para así, obteniendo el menor tiempo de inicio y el mayor tiempo de finalización, obtener el tiempo total.\\
+
+La diferencia podría darse por varias razones, al ser trabajos medianamente cortos, e intervalos pequeños, el tiempo de trabajo que toma para cada nodo, es muy corto, por lo que existe un mayor delta de tiempo al ir distribuyendo las tareas, que en la ejecución misma, dicho de otra manera, hay un overhead en la distribución y no en la ejecución.\\
+
+Por otro lado, también puede explicarse porque se están realizando múltiples operaciones de \texttt{I/O} que, por la misma razón que antes, ya que el computo es muy sencillo, pueden resultar más costosas que la ejecución misma.
+
+\section{Nodos fijos}
+Para asignar una cantidad fija de nodos en el $script$,  lo que se podría hacer es agregar el $flag$ \texttt{--nodes} disponible para el comando \texttt{sbatch}. Este comando, como se muestra en la \href{https://slurm.schedmd.com/sbatch.html}{documentación}, sirve para determinar la cantidad mínima, y opcionalmente máxima, de nodos a utilizar para un trabajo, de modo que al setear ambos, se puede obtener el comportamiento deseado.
+
+\section{Distribución Slurm}
+
+Slurm se basa en el algoritmo de \textit{Backfill scheduling}. Este \textit{scheduler} solo comienza los trabajos de menor prioridad si al hacerlo no empeora el desempeño de los de mayor prioridad. \\
+
+El \textit{workflow} general, es de la siguiente manera
+
+\begin{enumerate}
+\item Un \textit{job} se añade a la cola
+\item Se asigna una prioridad al \textit{job}:
+Esta se asigna por medio de:
+\begin{itemize}
+\item Fairshare: Prioriza trabajos de quienes hayan tenido menos trabajos anteriormente (\textit{underservices}). Evita \textit{starvation}.
+\item Age: Aumenta la prioridad a medida que el trabajo ha pasado más tiempo, es decir también evita \textit{starvation}.
+\item Tamaño (\textit{Job Size}): Se favorece a los trabajos que requieran mayor cantidad de CPUs.
+\end{itemize}
+\item El \textit{job} espera en cola hasta que le toque, es decir, los recursos esten disponibles y no haya otros de mayor prioridad que el
+\end{enumerate}
+
+De esta manera, al asignar prioridad por medio de esas tres medidas, se van asignando los trabajos en orden prioritario.\\
+
+Respuesta basada en \href{https://www.accre.vanderbilt.edu/wp-content/uploads/2016/08/intro_to_slurm.pdf}{ACCRE Intro to SLURM}
+
+\end{document}
