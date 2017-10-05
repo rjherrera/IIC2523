@@ -1,0 +1,240 @@
+./filter lena.png blur.txt lena_blur_25_1.png 25 1:
+
+real	0m1.774s
+user	0m1.724s
+sys	0m0.020s
+
+./filter lena.png blur.txt lena_blur_25_2.png 25 2:
+
+real	0m1.238s
+user	0m1.728s
+sys	0m0.044s
+
+./filter lena.png blur.txt lena_blur_25_4.png 25 4:
+
+real	0m1.027s
+user	0m1.840s
+sys	0m0.020s
+
+./filter lena.png blur.txt lena_blur_25_8.png 25 8:
+
+real	0m0.824s
+user	0m2.076s
+sys	0m0.024s
+
+./filter lena.png blur.txt lena_blur_25_16.png 25 16:
+
+real	0m1.272s
+user	0m1.632s
+sys	0m0.048s
+
+./filter lena.png blur.txt lena_blur_50_1.png 50 1:
+
+real	0m3.238s
+user	0m3.128s
+sys	0m0.080s
+
+./filter lena.png blur.txt lena_blur_50_2.png 50 2:
+
+real	0m1.774s
+user	0m3.184s
+sys	0m0.080s
+
+./filter lena.png blur.txt lena_blur_50_4.png 50 4:
+
+real	0m1.084s
+user	0m3.488s
+sys	0m0.064s
+
+./filter lena.png blur.txt lena_blur_50_8.png 50 8:
+
+real	0m1.213s
+user	0m4.220s
+sys	0m0.036s
+
+./filter lena.png blur.txt lena_blur_50_16.png 50 16:
+
+real	0m1.024s
+user	0m3.360s
+sys	0m0.068s
+
+./filter lena.png double.txt lena_double_25_1.png 25 1:
+
+real	0m4.174s
+user	0m4.092s
+sys	0m0.032s
+
+./filter lena.png double.txt lena_double_25_2.png 25 2:
+
+real	0m2.392s
+user	0m4.032s
+sys	0m0.056s
+
+./filter lena.png double.txt lena_double_25_4.png 25 4:
+
+real	0m2.105s
+user	0m4.332s
+sys	0m0.028s
+
+./filter lena.png double.txt lena_double_25_8.png 25 8:
+
+real	0m1.574s
+user	0m4.428s
+sys	0m0.032s
+
+./filter lena.png double.txt lena_double_25_16.png 25 16:
+
+real	0m1.338s
+user	0m4.040s
+sys	0m0.040s
+
+./filter lena.png double.txt lena_double_50_1.png 50 1:
+
+real	0m7.840s
+user	0m7.728s
+sys	0m0.060s
+
+./filter lena.png double.txt lena_double_50_2.png 50 2:
+
+real	0m4.714s
+user	0m7.880s
+sys	0m0.080s
+
+./filter lena.png double.txt lena_double_50_4.png 50 4:
+
+real	0m3.907s
+user	0m8.180s
+sys	0m0.112s
+
+./filter lena.png double.txt lena_double_50_8.png 50 8:
+
+real	0m2.446s
+user	0m8.584s
+sys	0m0.088s
+
+./filter lena.png double.txt lena_double_50_16.png 50 16:
+
+real	0m1.972s
+user	0m8.064s
+sys	0m0.068s
+
+./filter fruit.png blur.txt fruit_blur_25_1.png 25 1:
+
+real	0m4.697s
+user	0m4.512s
+sys	0m0.064s
+
+./filter fruit.png blur.txt fruit_blur_25_2.png 25 2:
+
+real	0m2.993s
+user	0m4.752s
+sys	0m0.084s
+
+./filter fruit.png blur.txt fruit_blur_25_4.png 25 4:
+
+real	0m2.557s
+user	0m4.840s
+sys	0m0.072s
+
+./filter fruit.png blur.txt fruit_blur_25_8.png 25 8:
+
+real	0m2.205s
+user	0m5.104s
+sys	0m0.092s
+
+./filter fruit.png blur.txt fruit_blur_25_16.png 25 16:
+
+real	0m2.437s
+user	0m4.656s
+sys	0m0.112s
+
+./filter fruit.png blur.txt fruit_blur_50_1.png 50 1:
+
+real	0m9.029s
+user	0m8.784s
+sys	0m0.192s
+
+./filter fruit.png blur.txt fruit_blur_50_2.png 50 2:
+
+real	0m5.222s
+user	0m9.124s
+sys	0m0.244s
+
+./filter fruit.png blur.txt fruit_blur_50_4.png 50 4:
+
+real	0m4.779s
+user	0m9.400s
+sys	0m0.236s
+
+./filter fruit.png blur.txt fruit_blur_50_8.png 50 8:
+
+real	0m3.771s
+user	0m9.800s
+sys	0m0.220s
+
+./filter fruit.png blur.txt fruit_blur_50_16.png 50 16:
+
+real	0m3.577s
+user	0m8.948s
+sys	0m0.240s
+
+./filter fruit.png double.txt fruit_double_25_1.png 25 1:
+
+real	0m11.204s
+user	0m11.016s
+sys	0m0.084s
+
+./filter fruit.png double.txt fruit_double_25_2.png 25 2:
+
+real	0m6.666s
+user	0m11.712s
+sys	0m0.092s
+
+./filter fruit.png double.txt fruit_double_25_4.png 25 4:
+
+real	0m5.028s
+user	0m11.548s
+sys	0m0.104s
+
+./filter fruit.png double.txt fruit_double_25_8.png 25 8:
+
+real	0m4.396s
+user	0m11.816s
+sys	0m0.096s
+
+./filter fruit.png double.txt fruit_double_25_16.png 25 16:
+
+real	0m3.547s
+user	0m11.272s
+sys	0m0.108s
+
+./filter fruit.png double.txt fruit_double_50_1.png 50 1:
+
+real	0m22.052s
+user	0m21.756s
+sys	0m0.208s
+
+./filter fruit.png double.txt fruit_double_50_2.png 50 2:
+
+real	0m12.116s
+user	0m22.496s
+sys	0m0.164s
+
+./filter fruit.png double.txt fruit_double_50_4.png 50 4:
+
+real	0m8.212s
+user	0m22.976s
+sys	0m0.140s
+
+./filter fruit.png double.txt fruit_double_50_8.png 50 8:
+
+real	0m5.671s
+user	0m22.968s
+sys	0m0.184s
+
+./filter fruit.png double.txt fruit_double_50_16.png 50 16:
+
+real	0m4.800s
+user	0m22.732s
+sys	0m0.188s
+
